@@ -1,2 +1,2 @@
-# RBCCom
-code test
+# OUCH protocol packet parser
+
